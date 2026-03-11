@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Rafael Batista
 
-Sou desenvolvedor web apaixonado por tecnologia e inovação, com foco em criar soluções eficientes e escaláveis. Tenho 30 anos, residente em Osasco/SP e contribuo no desenvolvimento de plataformas seguras e de alta performance.
+Sou desenvolvedor web apaixonado por tecnologia e inovação, com foco em criar soluções eficientes e escaláveis. Tenho 31 anos, residente em Osasco/SP e contribuo no desenvolvimento de plataformas seguras e de alta performance.
 
 ---
 
