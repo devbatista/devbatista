@@ -1,105 +1,71 @@
-# Rafael Batista | Desenvolvedor Back-end
+# Olá, eu sou Rafael Batista 👋
 
-Portfólio profissional de **Rafael Batista**, com foco em desenvolvimento back-end, sistemas financeiros, integrações de pagamento e arquitetura escalável.
+Desenvolvedor Back-end com foco em sistemas financeiros, integrações de pagamento e arquitetura escalável.
 
-- Site: [rbatista.dev](https://rbatista.dev)
-- LinkedIn: [linkedin.com/in/rbatist10](https://linkedin.com/in/rbatist10)
-- GitHub: [github.com/devbatista](https://github.com/devbatista)
-- E-mail: `rafael@devbatista.com`
-- Localização: Osasco, SP - Brasil
+- 📍 Osasco, SP - Brasil
+- 💼 7+ anos de experiência em desenvolvimento
+- 🧠 Especialidade: Ruby on Rails, PHP/Laravel, APIs REST
+- 🚀 Aberto a freelas e projetos desafiadores
 
-## Sobre
+## 🚀 Sobre mim
 
-Desenvolvedor back-end com **7 anos de experiência**, especializado em:
+Trabalho com desenvolvimento back-end orientado a negócio, com experiência em:
 
-- Ruby on Rails e PHP (Laravel)
-- APIs REST e integrações de pagamento (PIX, cartão, boleto)
-- Sistemas financeiros e processamento assíncrono
-- Escalabilidade, performance, testes e observabilidade
+- Integrações de pagamento (PIX, cartão, boleto)
+- APIs de alta confiabilidade
+- Processamento assíncrono (Sidekiq/Redis)
+- Performance, escalabilidade e observabilidade
 
-## Stack Técnica
+## 🛠️ Stack principal
 
-- Front-end: HTML, CSS, JavaScript, Vue.js
 - Back-end: Ruby on Rails, Laravel, Go
+- Front-end: Vue.js, JavaScript, HTML, CSS
 - Banco de dados: PostgreSQL, MySQL, Redis, Oracle
-- DevOps/Cloud: AWS, Kubernetes, CI/CD, CloudWatch
-- Ferramentas: Git, Docker, Linux, macOS, Sidekiq
+- DevOps/Cloud: AWS, Kubernetes, CI/CD, Docker, CloudWatch
+- Ferramentas: Git, Linux, macOS
 
-## Experiência Profissional
+## 💼 Experiência
 
-- **Fundador e Dev Backend (Projeto autoral) - CatalystOps**
-  - Desenvolvimento de plataforma de gestão de operações com autenticação, controle de acesso, ordens de serviço, tarefas e equipes.
+- Fundador e Dev Backend - CatalystOps (projeto autoral)
+- Desenvolvedor Full Stack - PrescSign (projeto autoral)
+- Dev Backend Laravel Pleno - Mentes Notáveis
+- Dev Ruby on Rails Pleno - iugu
+- Experiência prévia com PHP em produtos de educação, telecom e leilões
 
-- **Desenvolvedor Full Stack (Projeto autoral) - PrescSign**
-  - Plataforma de prescrição e atestado digital com Rails + Vue.js, multi-tenant, trilha de auditoria, geração de PDF e processamento assíncrono.
+## 📌 Projetos em destaque
 
-- **Dev Backend Laravel Pleno - Mentes Notáveis (Set/2025 - Dez/2025)**
-  - APIs RESTful, gamificação, otimização MySQL e melhorias de escalabilidade.
+- [CatalystOps](https://github.com/devbatista/catalyst_ops/)  
+  Plataforma de gestão de operações com Ruby on Rails.
 
-- **Dev Ruby on Rails Pleno - iugu (Dez/2021 - Mai/2025)**
-  - Desenvolvimento e manutenção de sistemas de pagamento online e integrações com gateways financeiros.
+- [PrescSign API](https://github.com/devbatista/prescsign.git) | [PrescSign Web](https://github.com/devbatista/prescsign_web.git)  
+  Plataforma para prescrição e atestado digital.
 
-- **Desenvolvedor Back-end PHP - BomValor (Jan/2021 - Nov/2021)**
+- [DevBatista Sys](https://github.com/devbatista/devbatista_sys/)  
+  Sistema interno de gestão de serviços.
 
-- **Dev PHP - Meeta Solutions (Nov/2020 - Fev/2021)**
+- [Virtual Shop](https://github.com/devbatista/virtual_shop/)  
+  Base de e-commerce em Rails.
 
-- **Dev PHP Jr - SP Systems Outsourcing (Mai/2020 - Nov/2020)**
+- [Blog API](https://github.com/devbatista/blog-api/)  
+  API RESTful com Laravel.
 
-- **Dev PHP Jr - TRC Mobile (Out/2019 - Mai/2020)**
+## 🎓 Formação
 
-## Projetos em Destaque
+- Técnico em Redes de Computadores - Senai
+- Análise e Desenvolvimento de Sistemas - Descomplica Faculdade Digital
 
-- **CatalystOps**
-  - Plataforma de gestão de operações.
-  - Stack: Ruby on Rails, PostgreSQL, Docker, Devise, Active Storage.
-  - Repositório: [github.com/devbatista/catalyst_ops](https://github.com/devbatista/catalyst_ops/)
-
-- **PrescSign**
-  - Plataforma full stack para prescrição e atestado digital.
-  - Stack: Ruby on Rails, Vue.js, PostgreSQL, Docker, APIs REST.
-  - Repositórios:
-    - API: [github.com/devbatista/prescsign](https://github.com/devbatista/prescsign.git)
-    - Web: [github.com/devbatista/prescsign_web](https://github.com/devbatista/prescsign_web.git)
-
-- **DevBatista (Sistema interno)**
-  - Gestão de contratos, clientes, orçamentos e processos administrativos.
-  - Repositório: [github.com/devbatista/devbatista_sys](https://github.com/devbatista/devbatista_sys/)
-
-- **Virtual Shop**
-  - E-commerce com autenticação, papéis de usuário, pedidos e testes automatizados.
-  - Repositório: [github.com/devbatista/virtual_shop](https://github.com/devbatista/virtual_shop/)
-
-- **API Blog**
-  - API RESTful em Laravel para gestão de conteúdo.
-  - Repositório: [github.com/devbatista/blog-api](https://github.com/devbatista/blog-api/)
-
-## Formação
-
-- Técnico em Redes de Computadores - Senai (2015 - 2016)
-- Análise e Desenvolvimento de Sistemas - Descomplica Faculdade Digital (2021 - 2023)
-
-## Idiomas
+## 🌍 Idiomas
 
 - Português: Nativo
 - Inglês: B1
 
-## Estrutura do Projeto
+## 📫 Contato
 
-```text
-.
-├── index.html
-├── assets/
-│   ├── css/styles.css
-│   ├── js/script.js
-│   ├── js/tailwind.config.js
-│   ├── images/
-│   └── pdf/rafael-batista.pdf
-└── README.md
-```
+- 🌐 Site: [rbatista.dev](https://rbatista.dev)
+- 💼 LinkedIn: [linkedin.com/in/rbatist10](https://linkedin.com/in/rbatist10)
+- 🐙 GitHub: [github.com/devbatista](https://github.com/devbatista)
+- ✉️ E-mail: `rafael@devbatista.com`
 
-## Como executar localmente
+---
 
-1. Clone este repositório.
-2. Abra o arquivo `index.html` no navegador.
-
-Opcionalmente, você pode usar uma extensão de servidor local (ex.: Live Server) para facilitar o desenvolvimento.
+Se quiser, eu também posso te entregar uma **versão 2** mais curta (estilo direto ao ponto) para testar qual converte melhor no seu perfil.
