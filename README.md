@@ -65,7 +65,3 @@ Trabalho com desenvolvimento back-end orientado a negócio, com experiência em:
 - 💼 LinkedIn: [linkedin.com/in/rbatist10](https://linkedin.com/in/rbatist10)
 - 🐙 GitHub: [github.com/devbatista](https://github.com/devbatista)
 - ✉️ E-mail: `rafael@devbatista.com`
-
----
-
-Se quiser, eu também posso te entregar uma **versão 2** mais curta (estilo direto ao ponto) para testar qual converte melhor no seu perfil.
