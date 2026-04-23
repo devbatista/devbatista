@@ -27,10 +27,15 @@ Trabalho com desenvolvimento back-end orientado a negócio, com experiência em:
 ## 💼 Experiência
 
 - Fundador e Dev Backend - CatalystOps (projeto autoral)
+  - Construção de uma plataforma de gestão operacional com autenticação, controle de acesso, ordens de serviço, tarefas e equipes.
 - Desenvolvedor Full Stack - PrescSign (projeto autoral)
+  - Desenvolvimento de solução para prescrição e atestado digital com Rails + Vue.js, trilha de auditoria, geração de PDF e integração entre módulos via APIs REST.
 - Dev Backend Laravel Pleno - Mentes Notáveis
+  - Evolução da plataforma educacional com APIs RESTful, recursos de gamificação, otimização de consultas MySQL e foco em escalabilidade.
 - Dev Ruby on Rails Pleno - iugu
+  - Atuação em sistemas de pagamento online, integrações com gateways financeiros e melhoria contínua de processos em times ágeis.
 - Experiência prévia com PHP em produtos de educação, telecom e leilões
+  - Participação em manutenção e criação de funcionalidades críticas, melhorias de performance e sustentação de sistemas legados.
 
 ## 📌 Projetos em destaque
 
@@ -65,3 +70,5 @@ Trabalho com desenvolvimento back-end orientado a negócio, com experiência em:
 - 💼 LinkedIn: [linkedin.com/in/rbatist10](https://linkedin.com/in/rbatist10)
 - 🐙 GitHub: [github.com/devbatista](https://github.com/devbatista)
 - ✉️ E-mail: `rafael@devbatista.com`
+
+---
