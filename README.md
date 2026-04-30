@@ -2,7 +2,7 @@
 
 Desenvolvedor Back-end com foco em sistemas financeiros, integrações de pagamento e arquitetura escalável.
 
-- 📍 Osasco, SP - Brasil
+- 📍 São Paulo, SP - Brasil
 - 💼 7+ anos de experiência em desenvolvimento
 - 🧠 Especialidade: Ruby on Rails, PHP/Laravel, APIs REST
 - 🚀 Aberto a freelas e projetos desafiadores
