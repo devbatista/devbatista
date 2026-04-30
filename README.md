@@ -20,6 +20,7 @@ Trabalho com desenvolvimento back-end orientado a negócio, com experiência em:
 
 - Back-end: Ruby on Rails, Laravel, Go
 - Front-end: Vue.js, JavaScript, HTML, CSS
+- Mobile: Flutter
 - Banco de dados: PostgreSQL, MySQL, Redis, Oracle
 - DevOps/Cloud: AWS, Kubernetes, CI/CD, Docker, CloudWatch
 - Ferramentas: Git, Linux, macOS
